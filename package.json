@@ -42,7 +42,7 @@
   ],
   "dependencies": {
     "antd": "^3.16.6",
-    "cpy": "^3.4.1",
+    "cpy": "^4.0.0",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
@@ -83,6 +83,6 @@
     "webpack": "^4.30.0",
     "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.3.1",
-    "webpack-dev-server": "^3.3.1"
+    "webpack-dev-server": "^4.9.0"
   }
 }
